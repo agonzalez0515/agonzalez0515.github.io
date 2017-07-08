@@ -1,7 +1,10 @@
 # Header
 menu:
   Home: /
-  # Blog: /blog
+  Projects: /projects
+  Blog: /blog
+  Contact: /contact
+
 
 
 rss: /atom.xml
