@@ -4,7 +4,7 @@
 
 # Site
 title: Angelica Gonzalez
-subtitle:
+# subtitle:
 description:
 author: Angelica Gonzalez
 language:
@@ -63,11 +63,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: materialize
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:agonzalez0515/agonzalez0515.github.io.git
+  repo: https://github.com/agonzalez0515/agonzalez0515.github.io.git
   branch: master

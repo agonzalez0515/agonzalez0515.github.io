@@ -1,0 +1,25 @@
+{
+  "name": "hexo-theme-materialize",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "build": "grunt build"
+  },
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.0",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-uglify": "^3.0.0",
+    "jquery": "^3.2.1",
+    "jquery-circle-progress": "^1.2.2",
+    "lightbox2": "^2.9.0",
+    "load-grunt-tasks": "^3.5.2",
+    "materialize-css": "^0.98.2",
+    "requirejs": "^2.3.3"
+  }
+}
